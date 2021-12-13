@@ -6,7 +6,7 @@ public class class05 {
 		try
 		{
 			int num=12;
-			int den[]= {12,6,3,9,44,4};
+			int den[]= {12,0,3,0,0,4};
 			for(int i=0;i<12;i++)
 				System.out.println("ans="+num/den[i]);
 		}
